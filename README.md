@@ -10,7 +10,7 @@ This is a simple demonstration of a dating application written in flask.I have u
 
 <h3>To execute</h3>
 
-<p>1) Cone this repo and cd into it.</p>
+<p>1) Clone this repo and cd into it.</p>
 <p>2) Run <b>pip install -r requirements.txt</b></p>
 <p>3) Run <b>python app.py</b></p>
 <p>4) Open the following url <b>http://127.0.0.1:5000</b><p>
