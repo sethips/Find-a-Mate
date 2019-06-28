@@ -15,6 +15,6 @@ This is a simple demonstration of a dating application written in flask.I have u
 <p>3) Run <b>python app.py</b></p>
 <p>4) Open the following url <b>http://127.0.0.1:5000</b><p>
 
-<h3>NOTE</h3>
+## Would you like to support me?
 
-<p>This is just a developmental version and I have no plans to use it in production. However if you find this project interesting ping me on <i>abhinav.sagar2016@vitstudent.ac.in</i>. We could collabarate and take this project further.</p>
+<a href="https://www.buymeacoffee.com/abhinavsagar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
