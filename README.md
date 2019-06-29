@@ -1,6 +1,6 @@
 # Date-me
 
-Dating application written in flask as backend and bootstrap as front end with mysql as database.
+Dating application written in bootstrap as front end, flask as backend and mysql as database.
 
 ## Features Supported
 
