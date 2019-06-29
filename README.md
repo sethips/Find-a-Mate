@@ -1,19 +1,20 @@
 # Date-me
 This is a simple demonstration of a dating application written in flask.I have used bootstrap for the front end and ajax calls for accepting or rejecting matches. I have also used mysql as database for storing the users information.
 
-<h3>Features Supported</h3>
+## Features Supported
 
-<p>1) Users can sign up and login.<p>
-<p>2) From the provided information while sign up potential matches are displayed.</p>
-<p>3) Users can both send like request and accept others requests.</p>
-<p>3) Both of the above features are supported in real time due to ajax calls.</p>
+- Users can sign up and login.
+- From the provided information while sign up potential matches are displayed.
+- Users can both send like request and accept others requests.
+- Both of the above features are supported in real time due to ajax calls.
 
-<h3>To execute</h3>
+## To execute
 
-<p>1) Clone this repo and cd into it.</p>
-<p>2) Run <b>pip install -r requirements.txt</b></p>
-<p>3) Run <b>python app.py</b></p>
-<p>4) Open the following url <b>http://127.0.0.1:5000</b><p>
+`pip install -r requirements.txt`
+
+`python app.py`
+
+Open the following url `http://127.0.0.1:5000`
 
 ## Would you like to support me?
 
