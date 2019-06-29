@@ -1,5 +1,6 @@
 # Date-me
-This is a simple demonstration of a dating application written in flask.I have used bootstrap for the front end and ajax calls for accepting or rejecting matches. I have also used mysql as database for storing the users information.
+
+Dating application written in flask.I have used bootstrap for the front end and ajax calls for accepting or rejecting matches. I have also used mysql as database for storing the users information.
 
 ## Features Supported
 
