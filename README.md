@@ -1,4 +1,4 @@
-# Find A Mate
+# Find a Mate
 
 Dating application written in bootstrap as front end, flask as backend and mysql as database.
 
